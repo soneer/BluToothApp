@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BLEIGHT</string>
+
+    <string name="trailerlight">BLEIGHT</string>
+   <string name="button_lights_on">Lights On</string>
+    <string name="button_lights_off">Lights Off</string>
+    <string name="button_emergency_flashers">Emergency Flasher</string>
+    <string name="button_trailer_voltage">Trailer Voltage</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">main</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_bluetooth_demo">BluetoothDemo</string>
+    <string name="title_activity_splash">BLEIGHT</string>
+    <string name="title_activity_motion_detector_tab">MotionDetectorTab</string>
+    <string name="title_activity_light_switch_tab">LightSwitchTab</string>
+</resources>
